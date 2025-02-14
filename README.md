@@ -1,4 +1,4 @@
-![Profilbild](https://github.com/Manyxtreme/Manyxtreme/blob/main/profilImage.png?raw=true)
+![Profilbild](https://github.com/Manyxtreme/Manyxtreme/blob/main/ProfilImage.png?raw=true)
 
 # 👋 Hi, I'm Many
 
