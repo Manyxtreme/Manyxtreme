@@ -42,8 +42,6 @@ Here are some of the projects I'm currently working on:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Manyxtreme&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manyxtreme&layout=compact&theme=radical)
-
 ## 💡 Fun Fact
 
 "Fun Fact: Coffee is my primary source of energy, but I still can't figure out how it works."
