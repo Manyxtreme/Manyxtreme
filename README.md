@@ -28,7 +28,6 @@ I'm currently diving deeper into **SwiftUI**, **Kotlin**, and exploring **Unity*
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
-- **Email**: [Manfred.braeuhauser@gmail.com](mailto:Manfred.braeuhauser@gmail.com)
 - **LinkedIn**: [Manfred Bräuhauser](https://www.linkedin.com/in/manfred-br%C3%A4uhauser/)
 
 ## 🔭 Current Projects
