@@ -1,3 +1,5 @@
+![Profilbild]([URL_des_Bildes](https://github.com/Manyxtreme/Manyxtreme/blob/main/profilImage.png))
+
 # 👋 Hi, I'm Many
 
 Welcome to my GitHub profile! I'm passionate about creating innovative and user-friendly solutions. Here, you'll find a collection of my projects, contributions, and experiments. Feel free to explore and connect with me!
