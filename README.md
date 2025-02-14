@@ -6,29 +6,28 @@ Welcome to my GitHub profile! I'm passionate about creating innovative and user-
 
 Here are some of the technologies and tools I work with:
 
-- **Swift**: Building elegant and performant iOS applications.
-- **Figma**: Designing intuitive and beautiful user interfaces.
-- **Kotlin**: Developing robust Android applications.
-- **HTML/CSS**: Crafting responsive and accessible web designs.
-- **JavaScript**: Creating dynamic and interactive web experiences.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="20" height="20"> **Swift**: Building elegant and performant iOS applications.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="20" height="20"> **Figma**: Designing intuitive and beautiful user interfaces.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="20" height="20"> **Kotlin**: Developing robust Android applications.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"> **HTML/CSS**: Crafting responsive and accessible web designs.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> **JavaScript**: Creating dynamic and interactive web experiences.
 
 ## 📖 Biografie
 
-I'm a Software Developer for IOS and Android with a passion for mobile development and love to solve complex problems with creative solutions.
+I'm a Software Developer for iOS and Android with a passion for mobile development and love to solve complex problems with creative solutions.
 
-In my free time, I enjoy gaming and i try to make Video Games with Unreal Engine and Unity, and I'm always eager to learn new technologies and improve my skills.
+In my free time, I enjoy gaming and I try to make video games with Unreal Engine and Unity. I'm always eager to learn new technologies and improve my skills.
 
 ## 🌱 What I'm Currently Learning
 
-I'm currently diving deeper into SwiftUI, Kotlin and exploring Unity and Unreal Engine.
+I'm currently diving deeper into **SwiftUI**, **Kotlin**, and exploring **Unity** and **Unreal Engine**.
 
 ## 📫 How to Reach Me
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
-- **Email**: Manfred.braeuhauser@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/manfred-br%C3%A4uhauser/
-
+- **Email**: [Manfred.braeuhauser@gmail.com](mailto:Manfred.braeuhauser@gmail.com)
+- **LinkedIn**: [Manfred Bräuhauser](https://www.linkedin.com/in/manfred-br%C3%A4uhauser/)
 
 ## 🔭 Current Projects
 
